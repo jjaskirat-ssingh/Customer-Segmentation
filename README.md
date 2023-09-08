@@ -15,3 +15,12 @@ tries to partition the dataset into K pre-defined distinct non-overlapping subgr
 - The number of suitable clusters, i.e. 3, was deduced using Elbow curve and silhouette score.
 - Lastly, the category of a customer was predicted by finding the RFM values (3D coordinate) and calculating the point’s distance in the 3D space from the centers of 
 all the 3 clusters and finding the minimum.
+
+## Visualizations:
+![image](https://github.com/kanuj-boora/Customer-Segmentation/assets/88098204/49df1256-7253-4034-a8dd-d1d6d9b8b4c3)
+
+![image](https://github.com/kanuj-boora/Customer-Segmentation/assets/88098204/1b79b058-b23c-4d95-af12-c3ffeb68162e)
+
+![image](https://github.com/kanuj-boora/Customer-Segmentation/assets/88098204/548dbab3-cae3-438e-8960-3933344be428)
+  
+![image](https://github.com/kanuj-boora/Customer-Segmentation/assets/88098204/372594bf-b3cd-45e2-97c7-ca2c7c16c0ff)
